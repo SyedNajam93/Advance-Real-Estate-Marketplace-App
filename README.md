@@ -1,4 +1,5 @@
-## Realist App Source Code for Individual Lectures
+## App source code on how to build the website
+
 
 Press `.` on your keyboard to open code editor mode for easy navigation.
 
